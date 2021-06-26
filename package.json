@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  },
+  "name": "kicad-pcb-parser",
+  "version": "1.0.0",
+  "description": "Parser to transform KiCad's .kicad_pcb schema to a JavaScript tree object",
+  "main": "index.js",
+  "repository": "https://github.com/cadstrom/kicad-pcb-parser.git",
+  "author": "James Finlay <jtfinlay1@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
